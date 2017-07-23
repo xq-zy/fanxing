@@ -1,0 +1,76 @@
+{__NOLAYOUT__}
+<layout name="Public/layout" />
+
+<!-- 登录主体部分start -->
+<div class="login w990 bc mt10 regist">
+	<div class="login_hd">
+		<h2>用户注册</h2>
+		<b></b>
+	</div>
+	<div class="login_bd">
+		<div class="login_form fl">
+			<form action="" method="post">
+				<ul>
+<li><label for="">用户名：</label>
+	<input type="text" class="txt" name="username" />
+	<p>3-20位字符，可由中文、字母、数字和下划线组成</p>
+</li>
+<li><label for="">密码：</label>
+	<input type="password" class="txt" name="password" />
+	<p>6-20位字符，可使用字母、数字和符号的组合，不建议使用纯数字、纯字母、纯符号</p>
+</li>
+<li><label for="">确认密码：</label>
+	<input type="password" class="txt" name="password2" />
+	<p> <span>请再次输入密码</span></p>
+</li>
+<li><label for="">邮箱：</label>
+	<input type="text" class="txt" name="user_email" />
+</li>
+<li class="checkcode"><label for="">手机号码：</label>
+	<input type="text"  name="user_tel" />
+	<span><input type="button" value="免费获取验证码" onclick="send()" /></a></span><span id="sendresult"></span>
+</li>
+<li class="checkcode"><label for="">验证码：</label>
+	<input type="text"  name="checkcode" />
+	<span style='color:red;'>{$infoerror|default=''}</span>
+</li>
+<li><label for="">&nbsp;</label>
+	<input type="submit" value="" class="login_btn" />
+</li>
+				</ul>
+			</form>
+<script type="text/javascript">
+//点击发送短信验证码
+function send(){
+    //获取手机号码
+    var tel = $('[name=user_tel]').val();
+    $.ajax({
+        url:'/index.php/Home/User/sendCont',
+        data:{'tel':tel},
+        dataType:'json',
+        //type:,
+        success:function(msg){
+            if(msg.status===0){
+                $('#sendresult').html('短信发送成功...');
+            }else{
+                $('#sendresult').html('短信失败！！');
+            }
+        }
+    });
+}
+</script>
+			
+		</div>
+		
+		<div class="mobile fl">
+			<h3>手机快速注册</h3>
+			<p>中国大陆手机用户，编辑短信 “<strong>XX</strong>”发送到：</p>
+			<p><strong>1069099988</strong></p>
+		</div>
+
+	</div>
+</div>
+<!-- 登录主体部分end -->
+
+<div style="clear:both;"></div>
+

@@ -1,0 +1,408 @@
+[ 2017-07-21T09:12:18+08:00 ] 127.0.0.1 /index.php/Admin/Login/checkVerify.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-21T09:27:46+08:00 ] 127.0.0.1 /index.php/Admin/Login/checkVerify.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.012000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.016001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.016001s ]
+
+[ 2017-07-21T09:45:09+08:00 ] 127.0.0.1 /index.php/Admin/Type/index
+ERR: 模板不存在:./Application/Admin/View/Type/index.html
+
+[ 2017-07-21T10:12:09+08:00 ] 127.0.0.1 /index.php/Admin/Type/delType.html?type_id=1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `fs_type` [ RunTime:0.0050s ]
+SQL: UPDATE `fs_type` SET `flag`='0' [ RunTime:0.0020s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-21T10:36:39+08:00 ] 127.0.0.1 /index.php/Admin/Attribute/getAttrInfoByType?type_id=2
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-21T10:39:19+08:00 ] 127.0.0.1 /index.php/Admin/Attribute/getAttrInfoByType?type_id=1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-07-21T10:40:24+08:00 ] 127.0.0.1 /index.php/Admin/Attribute/getAttrInfoByType?type_id=2
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+
+[ 2017-07-21T10:40:39+08:00 ] 127.0.0.1 /index.php/Admin/Attribute/getAttrInfoByType?type_id=2
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-21T10:45:46+08:00 ] 127.0.0.1 /index.php/Admin/Attribute/getAttrInfoByType?type_id=2
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `fs_attribute` [ RunTime:0.0100s ]
+SQL: SELECT a.*,t.type_name FROM fs_attribute a INNER JOIN fs_type t on a.type_id=t.type_id  WHERE a.type_id = '2'  [ RunTime:0.0670s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-21T10:51:43+08:00 ] 127.0.0.1 /index.php/Admin/Attribute/getAttrInfoByType?type_id=2
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `fs_attribute` [ RunTime:0.0050s ]
+SQL: SELECT a.*,t.type_name FROM fs_attribute a INNER JOIN fs_type t on a.type_id=t.type_id  WHERE a.type_id = '2'  [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-21T10:51:51+08:00 ] 127.0.0.1 /index.php/Admin/Attribute/getAttrInfoByType?type_id=1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `fs_attribute` [ RunTime:0.0070s ]
+SQL: SELECT a.*,t.type_name FROM fs_attribute a INNER JOIN fs_type t on a.type_id=t.type_id  WHERE a.type_id = '1'  [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-21T10:56:07+08:00 ] 127.0.0.1 /index.php/Admin/Attribute/getAttrInfoByType?type_id=2
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `fs_attribute` [ RunTime:0.0050s ]
+SQL: SELECT a.*,t.type_name FROM fs_attribute a INNER JOIN fs_type t on a.type_id=t.type_id  WHERE a.type_id = '2'  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-21T10:56:59+08:00 ] 127.0.0.1 /index.php/Admin/Attribute/getAttrInfoByType?type_id=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `fs_attribute` [ RunTime:0.0060s ]
+SQL: SELECT a.*,t.type_name FROM fs_attribute a INNER JOIN fs_type t on a.type_id=t.type_id   [ RunTime:0.0370s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-07-21T10:59:54+08:00 ] 127.0.0.1 /index.php/Admin/Attribute/getAttrInfoByType?type_id=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `fs_attribute` [ RunTime:0.0050s ]
+SQL: SELECT a.*,t.type_name FROM fs_attribute a INNER JOIN fs_type t on a.type_id=t.type_id   [ RunTime:0.0670s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-07-21T11:01:52+08:00 ] 127.0.0.1 /index.php/Admin/Attribute/getAttrInfoByType?type_id=1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `fs_attribute` [ RunTime:0.0060s ]
+SQL: SELECT a.*,t.type_name FROM fs_attribute a INNER JOIN fs_type t on a.type_id=t.type_id  WHERE a.type_id = '1'  [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2017-07-21T11:01:53+08:00 ] 127.0.0.1 /index.php/Admin/Attribute/getAttrInfoByType?type_id=2
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+SQL: SHOW COLUMNS FROM `fs_attribute` [ RunTime:0.0050s ]
+SQL: SELECT a.*,t.type_name FROM fs_attribute a INNER JOIN fs_type t on a.type_id=t.type_id  WHERE a.type_id = '2'  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-21T11:03:20+08:00 ] 127.0.0.1 /index.php/Admin/Type/delType.html?type_id=2
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `fs_type` [ RunTime:0.0060s ]
+SQL: UPDATE `fs_type` SET `flag`='0' [ RunTime:0.1410s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-07-21T11:05:21+08:00 ] 127.0.0.1 /index.php/Admin/Type/delType.html?type_id=1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `fs_type` [ RunTime:0.0070s ]
+SQL: UPDATE `fs_type` SET `flag`='0' WHERE `type_id` = 1 [ RunTime:0.1860s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-07-21T11:19:31+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getAttrByType?type_id=2
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-21T13:59:57+08:00 ] 127.0.0.1 /index.php/Admin/Attribute/getAttrInfoByType?type_id=2
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `fs_attribute` [ RunTime:0.0070s ]
+SQL: SELECT a.*,t.type_name FROM fs_attribute a INNER JOIN fs_type t on a.type_id=t.type_id  WHERE a.type_id = '2'  [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-21T14:00:04+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getAttrByType?type_id=2
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `fs_attribute` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `fs_attribute` WHERE `type_id` = 2  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-21T14:00:21+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getAttrByType?type_id=1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `fs_attribute` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `fs_attribute` WHERE `type_id` = 1  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-21T14:00:28+08:00 ] 127.0.0.1 /index.php/Admin/Attribute/getAttrInfoByType?type_id=2
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `fs_attribute` [ RunTime:0.0040s ]
+SQL: SELECT a.*,t.type_name FROM fs_attribute a INNER JOIN fs_type t on a.type_id=t.type_id  WHERE a.type_id = '2'  [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-21T14:00:37+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getAttrByType?goods_id=5&type_id=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `fs_attribute` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `fs_attribute` WHERE `type_id` = 0  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-21T14:02:22+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getAttrByType?goods_id=5&type_id=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `fs_attribute` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `fs_attribute` WHERE `type_id` = 0  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-21T14:08:58+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getAttrByType?type_id=2
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `fs_attribute` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `fs_attribute` WHERE `type_id` = 2  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-21T14:09:01+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getAttrByType?goods_id=5&type_id=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `fs_attribute` [ RunTime:0.0080s ]
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'fristshop.sp_goods_attr' doesn't exist
+
+[ 2017-07-21T14:09:05+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getAttrByType?goods_id=5&type_id=2
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `fs_attribute` [ RunTime:0.0040s ]
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'fristshop.sp_goods_attr' doesn't exist
+
+[ 2017-07-21T14:12:15+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getAttrByType?type_id=2
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `fs_attribute` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `fs_attribute` WHERE `type_id` = 2  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-07-21T14:12:47+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getAttrByType?goods_id=6&type_id=2
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `fs_attribute` [ RunTime:0.0060s ]
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'fristshop.sp_goods_attr' doesn't exist
+
+[ 2017-07-21T14:18:33+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getAttrByType?goods_id=6&type_id=2
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-21T14:20:02+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getAttrByType?goods_id=6&type_id=2
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-21T14:20:27+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getAttrByType?goods_id=6&type_id=2
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-07-21T14:21:47+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getAttrByType?goods_id=6&type_id=2
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-21T14:21:54+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getAttrByType?goods_id=6&type_id=2
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-07-21T14:22:05+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getAttrByType?goods_id=6&type_id=1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-21T14:22:10+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getAttrByType?goods_id=6&type_id=2
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-07-21T14:23:09+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getAttrByType?goods_id=6&type_id=2
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-07-21T14:24:08+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getAttrByType?goods_id=6&type_id=2
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-21T14:24:22+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getAttrByType?goods_id=6&type_id=2
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+
+[ 2017-07-21T14:25:41+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getAttrByType?goods_id=6&type_id=2
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-07-21T14:25:58+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getAttrByType?goods_id=6&type_id=2
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-21T14:26:42+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getAttrByType?goods_id=6&type_id=2
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-07-21T14:27:10+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getAttrByType?goods_id=6&type_id=2
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-07-21T14:27:47+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getAttrByType?goods_id=6&type_id=2
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-07-21T14:29:31+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getAttrByType?goods_id=6&type_id=2
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `fs_attribute` [ RunTime:0.0180s ]
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'fristshop.sp_goods_attr' doesn't exist
+
+[ 2017-07-21T14:30:44+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getAttrByType?goods_id=6&type_id=2
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'fristshop.sp_goods_attr' doesn't exist
+
+[ 2017-07-21T14:32:08+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getAttrByType?goods_id=6&type_id=2
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `fs_attribute` [ RunTime:0.0200s ]
+SQL: SELECT a.attr_id,a.attr_name,a.attr_sel,a.attr_vals,(select group_concat(ga.attr_value) from fs_goods_attr ga where ga.attr_id=a.attr_id and ga.goods_id=6) attr_values FROM fs_attribute a WHERE a.type_id = '2'  [ RunTime:0.0020s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-21T14:32:13+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getAttrByType?goods_id=6&type_id=1
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `fs_attribute` [ RunTime:0.0140s ]
+SQL: SELECT a.attr_id,a.attr_name,a.attr_sel,a.attr_vals,(select group_concat(ga.attr_value) from fs_goods_attr ga where ga.attr_id=a.attr_id and ga.goods_id=6) attr_values FROM fs_attribute a WHERE a.type_id = '1'  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-21T14:32:15+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getAttrByType?goods_id=6&type_id=2
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `fs_attribute` [ RunTime:0.0160s ]
+SQL: SELECT a.attr_id,a.attr_name,a.attr_sel,a.attr_vals,(select group_concat(ga.attr_value) from fs_goods_attr ga where ga.attr_id=a.attr_id and ga.goods_id=6) attr_values FROM fs_attribute a WHERE a.type_id = '2'  [ RunTime:0.0020s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-21T14:58:33+08:00 ] 127.0.0.1 /index.php/Admin/Attribute/getAttrInfoByType?type_id=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `fs_attribute` [ RunTime:0.0050s ]
+SQL: SELECT a.*,t.type_name FROM fs_attribute a INNER JOIN fs_type t on a.type_id=t.type_id   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-07-21T15:00:31+08:00 ] 127.0.0.1 /index.php/Admin/Attribute/getAttrInfoByType?type_id=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `fs_attribute` [ RunTime:0.0050s ]
+SQL: SELECT a.*,t.type_name FROM fs_attribute a INNER JOIN fs_type t on a.type_id=t.type_id   [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-21T16:51:45+08:00 ] 127.0.0.1 /index.php/Admin/Login/checkVerify.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2017-07-21T16:52:54+08:00 ] 127.0.0.1 /index.php/Admin/Goods/getAttrByType?goods_id=6&type_id=2
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `fs_attribute` [ RunTime:0.0050s ]
+SQL: SELECT a.attr_id,a.attr_name,a.attr_sel,a.attr_vals,(select group_concat(ga.attr_value) from fs_goods_attr ga where ga.attr_id=a.attr_id and ga.goods_id=6) attr_values FROM fs_attribute a WHERE a.type_id = '2'  [ RunTime:0.0200s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+

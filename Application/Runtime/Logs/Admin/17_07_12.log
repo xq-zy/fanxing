@@ -1,0 +1,932 @@
+[ 2017-07-12T10:24:21+08:00 ] 127.0.0.1 /index.php/Admin/Login/checkVerify.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-07-12T10:24:49+08:00 ] 127.0.0.1 /index.php/Admin/Admin/delAdmin.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `fs_admin` [ RunTime:0.0070s ]
+SQL: UPDATE `fs_admin` SET `flag`='0' WHERE `id` = 0 [ RunTime:0.1060s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-12T10:24:54+08:00 ] 127.0.0.1 /index.php/Admin/Admin/delAdmin.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `fs_admin` [ RunTime:0.0050s ]
+SQL: UPDATE `fs_admin` SET `flag`='0' WHERE `id` = 0 [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-12T10:24:56+08:00 ] 127.0.0.1 /index.php/Admin/Admin/delAdmin.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `fs_admin` [ RunTime:0.0050s ]
+SQL: UPDATE `fs_admin` SET `flag`='0' WHERE `id` = 0 [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-07-12T10:24:57+08:00 ] 127.0.0.1 /index.php/Admin/Admin/delAdmin.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `fs_admin` [ RunTime:0.0260s ]
+SQL: UPDATE `fs_admin` SET `flag`='0' WHERE `id` = 0 [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-07-12T10:24:57+08:00 ] 127.0.0.1 /index.php/Admin/Admin/delAdmin.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+SQL: SHOW COLUMNS FROM `fs_admin` [ RunTime:0.0060s ]
+SQL: UPDATE `fs_admin` SET `flag`='0' WHERE `id` = 0 [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2017-07-12T10:24:57+08:00 ] 127.0.0.1 /index.php/Admin/Admin/delAdmin.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `fs_admin` [ RunTime:0.0100s ]
+SQL: UPDATE `fs_admin` SET `flag`='0' WHERE `id` = 0 [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-07-12T10:24:57+08:00 ] 127.0.0.1 /index.php/Admin/Admin/delAdmin.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `fs_admin` [ RunTime:0.0050s ]
+SQL: UPDATE `fs_admin` SET `flag`='0' WHERE `id` = 0 [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-12T10:24:58+08:00 ] 127.0.0.1 /index.php/Admin/Admin/delAdmin.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `fs_admin` [ RunTime:0.0050s ]
+SQL: UPDATE `fs_admin` SET `flag`='0' WHERE `id` = 0 [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-12T10:24:59+08:00 ] 127.0.0.1 /index.php/Admin/Admin/delAdmin.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `fs_admin` [ RunTime:0.0050s ]
+SQL: UPDATE `fs_admin` SET `flag`='0' WHERE `id` = 0 [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-07-12T10:24:59+08:00 ] 127.0.0.1 /index.php/Admin/Admin/delAdmin.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `fs_admin` [ RunTime:0.0370s ]
+SQL: UPDATE `fs_admin` SET `flag`='0' WHERE `id` = 0 [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-07-12T10:25:00+08:00 ] 127.0.0.1 /index.php/Admin/Admin/delAdmin.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `fs_admin` [ RunTime:0.0060s ]
+SQL: UPDATE `fs_admin` SET `flag`='0' WHERE `id` = 0 [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-12T10:25:00+08:00 ] 127.0.0.1 /index.php/Admin/Admin/delAdmin.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `fs_admin` [ RunTime:0.0450s ]
+SQL: UPDATE `fs_admin` SET `flag`='0' WHERE `id` = 0 [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-12T10:25:51+08:00 ] 127.0.0.1 /index.php/Admin/Admin/delAdmin.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `fs_admin` [ RunTime:0.0140s ]
+SQL: UPDATE `fs_admin` SET `flag`='0' WHERE `id` = 0 [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-12T10:25:52+08:00 ] 127.0.0.1 /index.php/Admin/Admin/delAdmin.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `fs_admin` [ RunTime:0.0040s ]
+SQL: UPDATE `fs_admin` SET `flag`='0' WHERE `id` = 0 [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-12T10:25:53+08:00 ] 127.0.0.1 /index.php/Admin/Admin/delAdmin.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `fs_admin` [ RunTime:0.0040s ]
+SQL: UPDATE `fs_admin` SET `flag`='0' WHERE `id` = 0 [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-12T10:25:53+08:00 ] 127.0.0.1 /index.php/Admin/Admin/delAdmin.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `fs_admin` [ RunTime:0.0040s ]
+SQL: UPDATE `fs_admin` SET `flag`='0' WHERE `id` = 0 [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-12T10:25:57+08:00 ] 127.0.0.1 /index.php/Admin/Admin/delAdmin.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `fs_admin` [ RunTime:0.0050s ]
+SQL: UPDATE `fs_admin` SET `flag`='0' WHERE `id` = 0 [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-12T10:27:06+08:00 ] 127.0.0.1 /index.php/Admin/Admin/delAdmin.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `fs_admin` [ RunTime:0.0050s ]
+SQL: UPDATE `fs_admin` SET `flag`='0' WHERE `id` = 0 [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-12T10:27:07+08:00 ] 127.0.0.1 /index.php/Admin/Admin/delAdmin.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `fs_admin` [ RunTime:0.0080s ]
+SQL: UPDATE `fs_admin` SET `flag`='0' WHERE `id` = 0 [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-12T10:31:08+08:00 ] 127.0.0.1 /index.php/Admin/Admin/delAdmin.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `fs_admin` [ RunTime:0.0070s ]
+SQL: UPDATE `fs_admin` SET `flag`='0' WHERE `id` = 0 [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2017-07-12T10:31:09+08:00 ] 127.0.0.1 /index.php/Admin/Admin/delAdmin.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `fs_admin` [ RunTime:0.0060s ]
+SQL: UPDATE `fs_admin` SET `flag`='0' WHERE `id` = 0 [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-07-12T10:31:09+08:00 ] 127.0.0.1 /index.php/Admin/Admin/delAdmin.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `fs_admin` [ RunTime:0.0050s ]
+SQL: UPDATE `fs_admin` SET `flag`='0' WHERE `id` = 0 [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-12T10:31:09+08:00 ] 127.0.0.1 /index.php/Admin/Admin/delAdmin.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `fs_admin` [ RunTime:0.0070s ]
+SQL: UPDATE `fs_admin` SET `flag`='0' WHERE `id` = 0 [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-12T10:31:09+08:00 ] 127.0.0.1 /index.php/Admin/Admin/delAdmin.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `fs_admin` [ RunTime:0.0070s ]
+SQL: UPDATE `fs_admin` SET `flag`='0' WHERE `id` = 0 [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-12T10:31:09+08:00 ] 127.0.0.1 /index.php/Admin/Admin/delAdmin.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `fs_admin` [ RunTime:0.0040s ]
+SQL: UPDATE `fs_admin` SET `flag`='0' WHERE `id` = 0 [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-12T10:31:10+08:00 ] 127.0.0.1 /index.php/Admin/Admin/delAdmin.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.012000s ]
+SQL: SHOW COLUMNS FROM `fs_admin` [ RunTime:0.0100s ]
+SQL: UPDATE `fs_admin` SET `flag`='0' WHERE `id` = 0 [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-07-12T10:31:10+08:00 ] 127.0.0.1 /index.php/Admin/Admin/delAdmin.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+SQL: SHOW COLUMNS FROM `fs_admin` [ RunTime:0.0060s ]
+SQL: UPDATE `fs_admin` SET `flag`='0' WHERE `id` = 0 [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-12T10:31:10+08:00 ] 127.0.0.1 /index.php/Admin/Admin/delAdmin.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `fs_admin` [ RunTime:0.0060s ]
+SQL: UPDATE `fs_admin` SET `flag`='0' WHERE `id` = 0 [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-12T10:31:10+08:00 ] 127.0.0.1 /index.php/Admin/Admin/delAdmin.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+SQL: SHOW COLUMNS FROM `fs_admin` [ RunTime:0.0050s ]
+SQL: UPDATE `fs_admin` SET `flag`='0' WHERE `id` = 0 [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-12T10:31:10+08:00 ] 127.0.0.1 /index.php/Admin/Admin/delAdmin.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `fs_admin` [ RunTime:0.0050s ]
+SQL: UPDATE `fs_admin` SET `flag`='0' WHERE `id` = 0 [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-12T10:31:10+08:00 ] 127.0.0.1 /index.php/Admin/Admin/delAdmin.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `fs_admin` [ RunTime:0.0050s ]
+SQL: UPDATE `fs_admin` SET `flag`='0' WHERE `id` = 0 [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-07-12T10:45:11+08:00 ] 127.0.0.1 /index.php/Admin/Admin/delAdmin.html?admin_id=%3Cspan+class%3D%22STYLE19%22%3E22%3C%2Fspan%3E
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `fs_admin` [ RunTime:0.0060s ]
+SQL: UPDATE `fs_admin` SET `flag`='0' WHERE `id` = 0 [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-12T10:45:18+08:00 ] 127.0.0.1 /index.php/Admin/Admin/delAdmin.html?admin_id=%3Cspan+class%3D%22STYLE19%22%3E22%3C%2Fspan%3E
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `fs_admin` [ RunTime:0.0050s ]
+SQL: UPDATE `fs_admin` SET `flag`='0' WHERE `id` = 0 [ RunTime:0.0260s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-12T10:45:23+08:00 ] 127.0.0.1 /index.php/Admin/Admin/delAdmin.html?admin_id=%3Cspan+class%3D%22STYLE19%22%3E22%3C%2Fspan%3E
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `fs_admin` [ RunTime:0.0040s ]
+SQL: UPDATE `fs_admin` SET `flag`='0' WHERE `id` = 0 [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-12T10:45:26+08:00 ] 127.0.0.1 /index.php/Admin/Admin/delAdmin.html?admin_id=%3Cspan+class%3D%22STYLE19%22%3E22%3C%2Fspan%3E
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `fs_admin` [ RunTime:0.0070s ]
+SQL: UPDATE `fs_admin` SET `flag`='0' WHERE `id` = 0 [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-07-12T10:45:30+08:00 ] 127.0.0.1 /index.php/Admin/Admin/delAdmin.html?admin_id=%3Cspan+class%3D%22STYLE19%22%3E22%3C%2Fspan%3E
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `fs_admin` [ RunTime:0.0050s ]
+SQL: UPDATE `fs_admin` SET `flag`='0' WHERE `id` = 0 [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-12T10:45:33+08:00 ] 127.0.0.1 /index.php/Admin/Admin/delAdmin.html?admin_id=%3Cspan+class%3D%22STYLE19%22%3E22%3C%2Fspan%3E
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `fs_admin` [ RunTime:0.0050s ]
+SQL: UPDATE `fs_admin` SET `flag`='0' WHERE `id` = 0 [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-12T10:46:20+08:00 ] 127.0.0.1 /index.php/Admin/Admin/delAdmin.html?admin_id=%3Cspan+class%3D%22STYLE19%22%3E22%3C%2Fspan%3E
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `fs_admin` [ RunTime:0.0080s ]
+SQL: UPDATE `fs_admin` SET `flag`='0' WHERE `id` = 0 [ RunTime:0.0650s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2017-07-12T10:47:46+08:00 ] 127.0.0.1 /index.php/Admin/Admin/delAdmin.html?admin_id=%3Cspan+class%3D%22STYLE19%22%3E22%3C%2Fspan%3E
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `fs_admin` [ RunTime:0.0040s ]
+SQL: UPDATE `fs_admin` SET `flag`='0' WHERE `id` = 0 [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-12T10:47:50+08:00 ] 127.0.0.1 /index.php/Admin/Admin/delAdmin.html?admin_id=%3Cspan+class%3D%22STYLE19%22%3E22%3C%2Fspan%3E
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `fs_admin` [ RunTime:0.0050s ]
+SQL: UPDATE `fs_admin` SET `flag`='0' WHERE `id` = 0 [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-12T10:47:53+08:00 ] 127.0.0.1 /index.php/Admin/Admin/delAdmin.html?admin_id=%3Cspan+class%3D%22STYLE19%22%3E22%3C%2Fspan%3E
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `fs_admin` [ RunTime:0.0040s ]
+SQL: UPDATE `fs_admin` SET `flag`='0' WHERE `id` = 0 [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-12T10:47:55+08:00 ] 127.0.0.1 /index.php/Admin/Admin/delAdmin.html?admin_id=%3Cspan+class%3D%22STYLE19%22%3E22%3C%2Fspan%3E
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `fs_admin` [ RunTime:0.0050s ]
+SQL: UPDATE `fs_admin` SET `flag`='0' WHERE `id` = 0 [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-12T10:47:59+08:00 ] 127.0.0.1 /index.php/Admin/Admin/delAdmin.html?admin_id=%3Cspan+class%3D%22STYLE19%22%3E22%3C%2Fspan%3E
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `fs_admin` [ RunTime:0.0040s ]
+SQL: UPDATE `fs_admin` SET `flag`='0' WHERE `id` = 0 [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-12T10:51:37+08:00 ] 127.0.0.1 /index.php/Admin/Admin/delAdmin.html?admin_id=%3Cspan+class%3D%22STYLE19%22%3E22%3C%2Fspan%3E
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `fs_admin` [ RunTime:0.0060s ]
+SQL: UPDATE `fs_admin` SET `flag`='0' WHERE `id` = 0 [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-12T11:21:04+08:00 ] 127.0.0.1 /index.php/Admin/Admin/delAdmin.html?admin_id=%3Cspan+class%3D%22STYLE19%22%3E22%3C%2Fspan%3E
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `fs_admin` [ RunTime:0.0070s ]
+SQL: UPDATE `fs_admin` SET `flag`='0' WHERE `id` = 0 [ RunTime:0.0790s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-07-12T11:22:43+08:00 ] 127.0.0.1 /index.php/Admin/Admin/delAdmin.html?admin_id=%3Cspan+class%3D%22STYLE19%22%3E22%3C%2Fspan%3E
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `fs_admin` [ RunTime:0.0040s ]
+SQL: UPDATE `fs_admin` SET `flag`='0' WHERE `id` = 0 [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2017-07-12T11:23:00+08:00 ] 127.0.0.1 /index.php/Admin/Admin/delAdmin.html?admin_id=%3Cspan+class%3D%22STYLE19%22%3E22%3C%2Fspan%3E
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `fs_admin` [ RunTime:0.0040s ]
+SQL: UPDATE `fs_admin` SET `flag`='0' WHERE `id` = 0 [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-12T11:24:04+08:00 ] 127.0.0.1 /index.php/Admin/Admin/delAdmin.html?admin_id=%3Cspan+class%3D%22STYLE19%22%3E22%3C%2Fspan%3E
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `fs_admin` [ RunTime:0.0170s ]
+SQL: UPDATE `fs_admin` SET `flag`='0' WHERE `id` = 0 [ RunTime:0.0010s ]
+
+[ 2017-07-12T11:24:07+08:00 ] 127.0.0.1 /index.php/Admin/Admin/delAdmin.html?admin_id=%3Cspan+class%3D%22STYLE19%22%3E22%3C%2Fspan%3E
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `fs_admin` [ RunTime:0.0160s ]
+SQL: UPDATE `fs_admin` SET `flag`='0' WHERE `id` = 0 [ RunTime:0.0000s ]
+
+[ 2017-07-12T11:24:08+08:00 ] 127.0.0.1 /index.php/Admin/Admin/delAdmin.html?admin_id=%3Cspan+class%3D%22STYLE19%22%3E22%3C%2Fspan%3E
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `fs_admin` [ RunTime:0.0160s ]
+SQL: UPDATE `fs_admin` SET `flag`='0' WHERE `id` = 0 [ RunTime:0.0010s ]
+
+[ 2017-07-12T11:24:08+08:00 ] 127.0.0.1 /index.php/Admin/Admin/delAdmin.html?admin_id=%3Cspan+class%3D%22STYLE19%22%3E22%3C%2Fspan%3E
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `fs_admin` [ RunTime:0.0150s ]
+SQL: UPDATE `fs_admin` SET `flag`='0' WHERE `id` = 0 [ RunTime:0.0010s ]
+
+[ 2017-07-12T11:24:22+08:00 ] 127.0.0.1 /index.php/Admin/Admin/delAdmin.html?admin_id=%3Cspan+class%3D%22STYLE19%22%3E22%3C%2Fspan%3E
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `fs_admin` [ RunTime:0.0170s ]
+SQL: UPDATE `fs_admin` SET `flag`='0' WHERE `id` = 0 [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-07-12T11:24:23+08:00 ] 127.0.0.1 /index.php/Admin/Admin/delAdmin.html?admin_id=%3Cspan+class%3D%22STYLE19%22%3E22%3C%2Fspan%3E
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+SQL: SHOW COLUMNS FROM `fs_admin` [ RunTime:0.0120s ]
+SQL: UPDATE `fs_admin` SET `flag`='0' WHERE `id` = 0 [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-12T11:24:24+08:00 ] 127.0.0.1 /index.php/Admin/Admin/delAdmin.html?admin_id=%3Cspan+class%3D%22STYLE19%22%3E22%3C%2Fspan%3E
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `fs_admin` [ RunTime:0.0160s ]
+SQL: UPDATE `fs_admin` SET `flag`='0' WHERE `id` = 0 [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-07-12T11:24:25+08:00 ] 127.0.0.1 /index.php/Admin/Admin/delAdmin.html?admin_id=%3Cspan+class%3D%22STYLE19%22%3E22%3C%2Fspan%3E
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `fs_admin` [ RunTime:0.0160s ]
+SQL: UPDATE `fs_admin` SET `flag`='0' WHERE `id` = 0 [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2017-07-12T11:24:42+08:00 ] 127.0.0.1 /index.php/Admin/Admin/delAdmin.html?admin_id=%3Cspan+class%3D%22STYLE19%22%3E22%3C%2Fspan%3E
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `fs_admin` [ RunTime:0.0150s ]
+SQL: UPDATE `fs_admin` SET `flag`='0' WHERE `id` = 0 [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-07-12T11:25:05+08:00 ] 127.0.0.1 /index.php/Admin/Admin/delAdmin.html?admin_id=%3Cspan+class%3D%22STYLE19%22%3E22%3C%2Fspan%3E
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `fs_admin` [ RunTime:0.0150s ]
+SQL: UPDATE `fs_admin` SET `flag`='0' WHERE `id` = 0 [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-12T11:27:48+08:00 ] 127.0.0.1 /index.php/Admin/Admin/delAdmin.html?admin_id=%3Cspan+class%3D%22STYLE19%22%3E22%3C%2Fspan%3E
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `fs_admin` [ RunTime:0.0080s ]
+SQL: UPDATE `fs_admin` SET `flag`='0' WHERE `id` = 0 [ RunTime:0.0020s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-07-12T11:29:02+08:00 ] 127.0.0.1 /index.php/Admin/Admin/delAdmin.html?admin_id=%3Cspan+class%3D%22STYLE19%22%3E22%3C%2Fspan%3E
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `fs_admin` [ RunTime:0.0150s ]
+SQL: UPDATE `fs_admin` SET `flag`='0' WHERE `id` = 0 [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-12T11:29:39+08:00 ] 127.0.0.1 /index.php/Admin/Admin/delAdmin.html?admin_id=%3Cspan+class%3D%22STYLE19%22%3E22%3C%2Fspan%3E
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `fs_admin` [ RunTime:0.0150s ]
+SQL: UPDATE `fs_admin` SET `flag`='0' WHERE `id` = 22 [ RunTime:0.0750s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-12T11:31:58+08:00 ] 127.0.0.1 /index.php/Admin/Admin/delAdmin.html?admin_id=%3Cspan+class%3D%22STYLE19%22%3E22%3C%2Fspan%3E
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `fs_admin` [ RunTime:0.0150s ]
+SQL: UPDATE `fs_admin` SET `flag`='0' WHERE `id` = 0 [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-07-12T11:32:04+08:00 ] 127.0.0.1 /index.php/Admin/Admin/delAdmin.html?admin_id=%3Cspan+class%3D%22STYLE19%22%3E22%3C%2Fspan%3E
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `fs_admin` [ RunTime:0.0160s ]
+SQL: UPDATE `fs_admin` SET `flag`='0' WHERE `id` = 0 [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-12T11:32:35+08:00 ] 127.0.0.1 /index.php/Admin/Admin/delAdmin.html?admin_id=%3Cspan+class%3D%22STYLE19%22%3E22%3C%2Fspan%3E
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `fs_admin` [ RunTime:0.0140s ]
+SQL: UPDATE `fs_admin` SET `flag`='0' WHERE `id` = 0 [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-12T11:32:36+08:00 ] 127.0.0.1 /index.php/Admin/Admin/delAdmin.html?admin_id=%3Cspan+class%3D%22STYLE19%22%3E22%3C%2Fspan%3E
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `fs_admin` [ RunTime:0.0150s ]
+SQL: UPDATE `fs_admin` SET `flag`='0' WHERE `id` = 0 [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-12T11:32:36+08:00 ] 127.0.0.1 /index.php/Admin/Admin/delAdmin.html?admin_id=%3Cspan+class%3D%22STYLE19%22%3E22%3C%2Fspan%3E
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `fs_admin` [ RunTime:0.0150s ]
+SQL: UPDATE `fs_admin` SET `flag`='0' WHERE `id` = 0 [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-12T11:32:37+08:00 ] 127.0.0.1 /index.php/Admin/Admin/delAdmin.html?admin_id=%3Cspan+class%3D%22STYLE19%22%3E22%3C%2Fspan%3E
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `fs_admin` [ RunTime:0.0080s ]
+SQL: UPDATE `fs_admin` SET `flag`='0' WHERE `id` = 0 [ RunTime:0.0020s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-12T11:32:37+08:00 ] 127.0.0.1 /index.php/Admin/Admin/delAdmin.html?admin_id=%3Cspan+class%3D%22STYLE19%22%3E22%3C%2Fspan%3E
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `fs_admin` [ RunTime:0.0120s ]
+SQL: UPDATE `fs_admin` SET `flag`='0' WHERE `id` = 0 [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-07-12T11:32:37+08:00 ] 127.0.0.1 /index.php/Admin/Admin/delAdmin.html?admin_id=%3Cspan+class%3D%22STYLE19%22%3E22%3C%2Fspan%3E
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `fs_admin` [ RunTime:0.0150s ]
+SQL: UPDATE `fs_admin` SET `flag`='0' WHERE `id` = 0 [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-12T11:32:37+08:00 ] 127.0.0.1 /index.php/Admin/Admin/delAdmin.html?admin_id=%3Cspan+class%3D%22STYLE19%22%3E22%3C%2Fspan%3E
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `fs_admin` [ RunTime:0.0150s ]
+SQL: UPDATE `fs_admin` SET `flag`='0' WHERE `id` = 0 [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-12T11:32:37+08:00 ] 127.0.0.1 /index.php/Admin/Admin/delAdmin.html?admin_id=%3Cspan+class%3D%22STYLE19%22%3E22%3C%2Fspan%3E
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `fs_admin` [ RunTime:0.0160s ]
+SQL: UPDATE `fs_admin` SET `flag`='0' WHERE `id` = 0 [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-12T11:32:40+08:00 ] 127.0.0.1 /index.php/Admin/Admin/delAdmin.html?admin_id=%3Cspan+class%3D%22STYLE19%22%3E22%3C%2Fspan%3E
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `fs_admin` [ RunTime:0.0130s ]
+SQL: UPDATE `fs_admin` SET `flag`='0' WHERE `id` = 0 [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-12T11:32:40+08:00 ] 127.0.0.1 /index.php/Admin/Admin/delAdmin.html?admin_id=%3Cspan+class%3D%22STYLE19%22%3E22%3C%2Fspan%3E
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `fs_admin` [ RunTime:0.0160s ]
+SQL: UPDATE `fs_admin` SET `flag`='0' WHERE `id` = 0 [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-12T11:32:41+08:00 ] 127.0.0.1 /index.php/Admin/Admin/delAdmin.html?admin_id=%3Cspan+class%3D%22STYLE19%22%3E22%3C%2Fspan%3E
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `fs_admin` [ RunTime:0.0160s ]
+SQL: UPDATE `fs_admin` SET `flag`='0' WHERE `id` = 0 [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-12T11:32:41+08:00 ] 127.0.0.1 /index.php/Admin/Admin/delAdmin.html?admin_id=%3Cspan+class%3D%22STYLE19%22%3E22%3C%2Fspan%3E
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `fs_admin` [ RunTime:0.0170s ]
+SQL: UPDATE `fs_admin` SET `flag`='0' WHERE `id` = 0 [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-12T11:32:41+08:00 ] 127.0.0.1 /index.php/Admin/Admin/delAdmin.html?admin_id=%3Cspan+class%3D%22STYLE19%22%3E22%3C%2Fspan%3E
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `fs_admin` [ RunTime:0.0180s ]
+SQL: UPDATE `fs_admin` SET `flag`='0' WHERE `id` = 0 [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-07-12T11:32:43+08:00 ] 127.0.0.1 /index.php/Admin/Admin/delAdmin.html?admin_id=%3Cspan+class%3D%22STYLE19%22%3E22%3C%2Fspan%3E
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `fs_admin` [ RunTime:0.0160s ]
+SQL: UPDATE `fs_admin` SET `flag`='0' WHERE `id` = 0 [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-12T11:32:44+08:00 ] 127.0.0.1 /index.php/Admin/Admin/delAdmin.html?admin_id=%3Cspan+class%3D%22STYLE19%22%3E22%3C%2Fspan%3E
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `fs_admin` [ RunTime:0.0180s ]
+SQL: UPDATE `fs_admin` SET `flag`='0' WHERE `id` = 0 [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-07-12T11:32:44+08:00 ] 127.0.0.1 /index.php/Admin/Admin/delAdmin.html?admin_id=%3Cspan+class%3D%22STYLE19%22%3E22%3C%2Fspan%3E
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `fs_admin` [ RunTime:0.0090s ]
+SQL: UPDATE `fs_admin` SET `flag`='0' WHERE `id` = 0 [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-12T11:32:44+08:00 ] 127.0.0.1 /index.php/Admin/Admin/delAdmin.html?admin_id=%3Cspan+class%3D%22STYLE19%22%3E22%3C%2Fspan%3E
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `fs_admin` [ RunTime:0.0170s ]
+SQL: UPDATE `fs_admin` SET `flag`='0' WHERE `id` = 0 [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-12T11:32:44+08:00 ] 127.0.0.1 /index.php/Admin/Admin/delAdmin.html?admin_id=%3Cspan+class%3D%22STYLE19%22%3E22%3C%2Fspan%3E
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `fs_admin` [ RunTime:0.0160s ]
+SQL: UPDATE `fs_admin` SET `flag`='0' WHERE `id` = 0 [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-07-12T11:33:09+08:00 ] 127.0.0.1 /index.php/Admin/Admin/delAdmin.html?admin_id=%3Cspan+class%3D%22STYLE19%22%3E22%3C%2Fspan%3E
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `fs_admin` [ RunTime:0.0130s ]
+SQL: UPDATE `fs_admin` SET `flag`='0' WHERE `id` = 0 [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-07-12T11:33:10+08:00 ] 127.0.0.1 /index.php/Admin/Admin/delAdmin.html?admin_id=%3Cspan+class%3D%22STYLE19%22%3E22%3C%2Fspan%3E
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `fs_admin` [ RunTime:0.0160s ]
+SQL: UPDATE `fs_admin` SET `flag`='0' WHERE `id` = 0 [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-12T11:33:10+08:00 ] 127.0.0.1 /index.php/Admin/Admin/delAdmin.html?admin_id=%3Cspan+class%3D%22STYLE19%22%3E22%3C%2Fspan%3E
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `fs_admin` [ RunTime:0.0160s ]
+SQL: UPDATE `fs_admin` SET `flag`='0' WHERE `id` = 0 [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-12T11:33:10+08:00 ] 127.0.0.1 /index.php/Admin/Admin/delAdmin.html?admin_id=%3Cspan+class%3D%22STYLE19%22%3E22%3C%2Fspan%3E
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `fs_admin` [ RunTime:0.0160s ]
+SQL: UPDATE `fs_admin` SET `flag`='0' WHERE `id` = 0 [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2017-07-12T11:33:10+08:00 ] 127.0.0.1 /index.php/Admin/Admin/delAdmin.html?admin_id=%3Cspan+class%3D%22STYLE19%22%3E22%3C%2Fspan%3E
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `fs_admin` [ RunTime:0.0120s ]
+SQL: UPDATE `fs_admin` SET `flag`='0' WHERE `id` = 0 [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-12T11:33:36+08:00 ] 127.0.0.1 /index.php/Admin/Admin/delAdmin.html?admin_id=%3Cspan+class%3D%22STYLE19%22%3E22%3C%2Fspan%3E
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+SQL: SHOW COLUMNS FROM `fs_admin` [ RunTime:0.0130s ]
+SQL: UPDATE `fs_admin` SET `flag`='0' WHERE `id` = 0 [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-07-12T11:34:11+08:00 ] 127.0.0.1 /index.php/Admin/Admin/delAdmin.html?admin_id=%3Cspan+class%3D%22STYLE19%22%3E22%3C%2Fspan%3E
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `fs_admin` [ RunTime:0.0140s ]
+SQL: UPDATE `fs_admin` SET `flag`='0' WHERE `id` = 0 [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-12T11:34:16+08:00 ] 127.0.0.1 /index.php/Admin/Admin/delAdmin.html?admin_id=%3Cspan+class%3D%22STYLE19%22%3E22%3C%2Fspan%3E
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `fs_admin` [ RunTime:0.0110s ]
+SQL: UPDATE `fs_admin` SET `flag`='0' WHERE `id` = 0 [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-12T11:35:20+08:00 ] 127.0.0.1 /index.php/Admin/Admin/delAdmin.html?admin_id=%3Cspan+class%3D%22STYLE19%22%3E22%3C%2Fspan%3E
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `fs_admin` [ RunTime:0.0090s ]
+SQL: UPDATE `fs_admin` SET `flag`='0' WHERE `id` = 0 [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-12T11:36:27+08:00 ] 127.0.0.1 /index.php/Admin/Admin/delAdmin.html?admin_id=%3Cspan+class%3D%22STYLE19%22%3E22%3C%2Fspan%3E
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `fs_admin` [ RunTime:0.0150s ]
+SQL: UPDATE `fs_admin` SET `flag`='0' WHERE `id` = 0 [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-12T11:37:04+08:00 ] 127.0.0.1 /index.php/Admin/Admin/delAdmin.html?admin_id=%3Cspan+class%3D%22STYLE19%22%3E22%3C%2Fspan%3E
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `fs_admin` [ RunTime:0.0150s ]
+SQL: UPDATE `fs_admin` SET `flag`='0' WHERE `id` = 0 [ RunTime:0.0010s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-07-12T13:35:49+08:00 ] 127.0.0.1 /index.php/Admin/Admin/delAdmin.html?admin_id=22
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `fs_admin` [ RunTime:0.0150s ]
+SQL: UPDATE `fs_admin` SET `flag`='0' WHERE `id` = 22 [ RunTime:0.0560s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-07-12T19:49:55+08:00 ] 127.0.0.1 /index.php/Admin/Admin/delAdmin.html?admin_id=22
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `fs_admin` [ RunTime:0.0050s ]
+SQL: UPDATE `fs_admin` SET `flag`='0' WHERE `id` = 22 [ RunTime:0.2350s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-07-12T20:08:13+08:00 ] 127.0.0.1 /index.php/Admin/Role/index
+ERR: 无法加载控制器:Role
+
+[ 2017-07-12T20:57:35+08:00 ] 127.0.0.1 /index.php/Admin/Auth/index
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'role_id' in 'order clause'
+

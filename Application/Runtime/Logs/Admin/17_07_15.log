@@ -1,0 +1,14 @@
+[ 2017-07-15T08:34:02+08:00 ] 127.0.0.1 /index.php/Admin/Login/checkVerify.html
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-07-15T10:15:14+08:00 ] 127.0.0.1 /index.php/Admin/Goods/index
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'fristshop.fs_goods' doesn't exist
+
+[ 2017-07-15T16:24:25+08:00 ] 127.0.0.1 /index.php/Admin/Goods/add.html
+ERR: 模板不存在:./Application/Admin/View/Goods/add.html
+
